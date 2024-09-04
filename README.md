@@ -14,6 +14,17 @@
 
 - 📫 contact me @ **arun.mohla@gmail.com**
 
+<h3 align="left">Projects:</h3>
+<h4 align="left">SQL:</h3>
+
+- **Credit Card Analysis**: [check it out](https://github.com/arunmohla/creditcardanalysis) :
+This project involves analyzing credit card transaction data to gain insights into customer spending patterns, merchant activities, and potential fraudulent transactions. By leveraging SQL queries, we aim to uncover trends, identify high-value customers, and detect anomalies in transaction data. The project demonstrates SQL proficiency through the application of various functions and techniques to analyze and interpret complex datasets.
+  
+- **Library Management System**: [check it out](https://github.com/arunmohla/SQL_Project_Library_Management) :
+This project showcases the development of a comprehensive Library Management System using SQL. It involves designing and managing relational databases, performing CRUD operations, and executing complex SQL queries. The project aims to highlight proficiency in database design, data manipulation, and advanced querying techniques.
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arun_mohla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun_mohla" height="30" width="40" /></a>
